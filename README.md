@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/ahmet-saribas-993b231ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-saribas-993b231ab" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c74732c72656163742c6e6578746a732c72656475782c656c656374726f6e2c6d6174657269616c75692c7461696c77696e642c6e6f64656a732c6578707 (9) copy](https://user-images.githubusercontent.com/77645494/195601707-a23678bd-9756-4c31-9cb8-6d16fd209520.png)
+<h3 align="left">My Tech Stack</h3>
+<p align="left">I'm proficient with the following relevant technologies:</p>
+![My Tech-Stacks](https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing)
 
