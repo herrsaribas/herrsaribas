@@ -20,5 +20,5 @@
 
 <h3 align="left">My Tech Stack</h3>
 <p align="left">I'm proficient with the following relevant technologies:</p>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="[https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing](https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing)" alt="babel" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
