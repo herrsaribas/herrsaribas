@@ -20,5 +20,5 @@
 
 <h3 align="left">My Tech Stack</h3>
 <p align="left">I'm proficient with the following relevant technologies:</p>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg](https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing)" alt="babel" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="[https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing](https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing)" alt="babel" width="40" height="40"/> </a> </p>
 
