@@ -20,5 +20,5 @@
 
 <h3 align="left">My Tech Stack</h3>
 <p align="left">I'm proficient with the following relevant technologies:</p>
-![My Tech-Stacks](https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing)
+![https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing](https://drive.google.com/file/d/1nMqPtiJEG8YrE2LQ6pA8-tXZ_0GsW-Ed/view?usp=sharing)
 
