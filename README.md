@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **info@asaribas.com**
 
-- 📄 Know about my experiences [https://uploads-ssl.webflow.com/625fc77892ab05c5f94a8deb/63443dc09d482594799b5f6b_Resume-Ahmet%20Saribas-updated.pdf](https://uploads-ssl.webflow.com/625fc77892ab05c5f94a8deb/63443dc09d482594799b5f6b_Resume-Ahmet%20Saribas-updated.pdf)
+- 📄 Know about my experiences [Resume](https://uploads-ssl.webflow.com/625fc77892ab05c5f94a8deb/63443dc09d482594799b5f6b_Resume-Ahmet%20Saribas-updated.pdf)
 
 - ⚡ Fun fact **Solving challenge in HackerRank**
 
