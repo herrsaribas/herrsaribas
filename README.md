@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate frontend developer, based in Sindelfingen, Germany. Design and coding are my passions and my new professional career focus. Developing applications for the web has become my drive.</h3>
 
-- 🌱 I’m currently learning **NodeJs, Express, MongoDB**
+- 🌱 I’m currently learning **VueJs, Docker, Kubernetes**
+
+- 🚀 I'm interested in Cloud Technologies and ERP Systems (Salesforce, SAP, Odoo, Plentymarkets etc. )
 
 - 👨‍💻 All of my projects are available at [https://github.com/herrsaribas/](https://github.com/herrsaribas/)
 
